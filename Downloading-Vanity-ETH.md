@@ -9,6 +9,6 @@ The easiest way to download Vanity-ETH is from the following link:
 You can achieve the same result following these steps:
 1. Switch current branch to `gh-pages`
 2. Click **Clone or download**
-3. Click **Download Z'IP**
+3. Click **Download ZIP**
 
 ![Tutorial](https://i.imgur.com/UWOi1OV.png)
