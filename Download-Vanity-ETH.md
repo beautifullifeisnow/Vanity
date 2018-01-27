@@ -15,4 +15,3 @@ You can achieve the same result following these steps:
 
 Just unzip the downloaded archive, and open `index.html` with your browser.
 
-**Note**: for some reasons, some browsers such as chrome disallow multi-thread computation when run from a local file. Vanity-ETH won't work in this case.
