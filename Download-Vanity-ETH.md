@@ -1,4 +1,4 @@
-You can either use Vanity-ETH online at [git.io/veth](https://git.io/veth), or use a locally downloaded version.
+You can either use Vanity-ETH online at [git.io/veth](https://git.io/veth), or use a locally downloaded version totally offline.
 
 _____
 
