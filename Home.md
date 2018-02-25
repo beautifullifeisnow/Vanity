@@ -1,1 +1,1 @@
-Welcome to the vanity-eth wiki!
+Welcome to the Vanity-ETH wiki!
