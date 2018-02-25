@@ -1,1 +1,0 @@
-![](https://i.imgur.com/lv6Gej5.png)
