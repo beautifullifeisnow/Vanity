@@ -1,6 +1,6 @@
 [![Vanity-ETH](https://i.imgur.com/zmSLeBP.png)](https://vanity-eth.tk)
 
-You can either use Vanity-ETH online at [vanity-eth.tk](https://vanity-eth.tk/), or use a locally downloaded version totally offline.
+You can either use Vanity-ETH online at [vanity-eth.tk](https://vanity-eth.tk/), or download it for a totally offline usage.
 
 _____
 
